@@ -1,2 +1,2 @@
-# zerodha2025
+# ZerodhaDec2024
 Algo Trading Related 
